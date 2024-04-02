@@ -9,9 +9,7 @@ desktop.ini
 checkpoints/custom/
 
 # Example output
-example/
-!example/soundscape.wav
-!example/species_list.txt
+
 
 # Logs
 error_log.txt

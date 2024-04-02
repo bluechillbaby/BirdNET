@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/test04/wwfw-test-01.mp3	32	0	3	0	15000	nocall	nocall	1.0000
