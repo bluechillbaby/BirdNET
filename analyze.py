@@ -30,6 +30,9 @@ def loadCodes():
     return codes
 
 
+import csv
+import os
+
 def saveResultFile(r: dict[str, list], path: str, afile_path: str):
     """Saves the results to the hard drive.
 
@@ -207,6 +210,21 @@ def saveResultFile(r: dict[str, list], path: str, afile_path: str):
     # Save as file
     with open(path, "w", encoding="utf-8") as rfile:
         rfile.write(out_string)
+        
+    # Save as CSV file
+    csv_path = os.path.splitext(path)[0] + ".csv"
+    with open(csv_path, "w", newline='', encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+        # Write header
+        writer.writerow(["Start (s)", "End (s)", "Scientific name", "Common name", "Confidence"])
+        # Write results
+        for timestamp in getSortedTimestamps(r):
+            for c in r[timestamp]:
+                start, end = timestamp.split("-", 1)
+                if c[1] > cfg.MIN_CONFIDENCE and (not cfg.SPECIES_LIST or c[0] in cfg.SPECIES_LIST):
+                    label = cfg.TRANSLATED_LABELS[cfg.LABELS.index(c[0])]
+                    writer.writerow([start, end, label.split("_", 1)[0], label.split("_", 1)[-1], c[1]])
+
 
 def combineResults(folder: str, output_file: str):
 
