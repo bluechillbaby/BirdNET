@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus leucopterus_White-winged Fairywren\XC643290 - White-winged Fairywren - Malurus leucopterus leuconotus.mp3	10	0	3.0	0	12000.0	rufson1	Rufous Songlark	0.1275
+2	Spectrogram 1	1	example/fairywren\Malurus leucopterus_White-winged Fairywren\XC643290 - White-winged Fairywren - Malurus leucopterus leuconotus.mp3	10	3.0	6.0	0	12000.0	whwfai1	White-winged Fairywren	0.9520
+3	Spectrogram 1	1	example/fairywren\Malurus leucopterus_White-winged Fairywren\XC643290 - White-winged Fairywren - Malurus leucopterus leuconotus.mp3	10	6.0	9.0	0	12000.0	whwfai1	White-winged Fairywren	0.9726
+4	Spectrogram 1	1	example/fairywren\Malurus leucopterus_White-winged Fairywren\XC643290 - White-winged Fairywren - Malurus leucopterus leuconotus.mp3	10	6.0	9.0	0	12000.0	skylar	Eurasian Skylark	0.1189

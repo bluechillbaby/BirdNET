@@ -1,0 +1,20 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Anthropoides paradiseus,Blue Crane,0.8178968
+0,3.0,Antigone canadensis,Sandhill Crane,0.6721344
+3.0,6.0,Antigone canadensis,Sandhill Crane,0.9656163
+3.0,6.0,Anthropoides paradiseus,Blue Crane,0.8939322
+6.0,9.0,Antigone canadensis,Sandhill Crane,0.8653831
+6.0,9.0,Anthropoides paradiseus,Blue Crane,0.83584905
+6.0,9.0,Antigone rubicunda,Brolga,0.34434986
+9.0,12.0,Anthropoides paradiseus,Blue Crane,0.96018726
+9.0,12.0,Antigone canadensis,Sandhill Crane,0.5554502
+12.0,15.0,Antigone canadensis,Sandhill Crane,0.8399698
+12.0,15.0,Anthropoides paradiseus,Blue Crane,0.63109094
+15.0,18.0,Antigone canadensis,Sandhill Crane,0.99030954
+15.0,18.0,Anthropoides paradiseus,Blue Crane,0.11088378
+18.0,21.0,Anthropoides paradiseus,Blue Crane,0.92274565
+18.0,21.0,Antigone canadensis,Sandhill Crane,0.35604557
+21.0,24.0,Anthropoides paradiseus,Blue Crane,0.8527212
+21.0,24.0,Antigone rubicunda,Brolga,0.3893359
+21.0,24.0,Antigone canadensis,Sandhill Crane,0.2909759
+24.0,27.0,Antigone canadensis,Sandhill Crane,0.8032861

@@ -1,0 +1,18 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Malurus assimilis,Purple-backed Fairywren,0.95667297
+0,3.0,Malurus cyaneus,Superb Fairywren,0.6219415
+0,3.0,Malurus lamberti,Variegated Fairywren,0.58285314
+3.0,6.0,Malurus cyaneus,Superb Fairywren,0.69091046
+3.0,6.0,Malurus assimilis,Purple-backed Fairywren,0.19131424
+6.0,9.0,Ptilotula penicillata,White-plumed Honeyeater,0.15951154
+6.0,9.0,Saltator striatipectus,Streaked Saltator,0.14781518
+6.0,9.0,Paroaria dominicana,Red-cowled Cardinal,0.10734811
+9.0,12.0,Malurus cyaneus,Superb Fairywren,0.650909
+9.0,12.0,Malurus assimilis,Purple-backed Fairywren,0.29372752
+12.0,15.0,Malurus cyaneus,Superb Fairywren,0.15158758
+15.0,18.0,Malurus assimilis,Purple-backed Fairywren,0.41876614
+15.0,18.0,Malurus lamberti,Variegated Fairywren,0.3746212
+18.0,21.0,Malurus cyaneus,Superb Fairywren,0.3988546
+18.0,21.0,Malurus assimilis,Purple-backed Fairywren,0.36939886
+18.0,21.0,Malurus lamberti,Variegated Fairywren,0.33816662
+18.0,21.0,Malurus melanocephalus,Red-backed Fairywren,0.25564486

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	0	3.0	0	15000	laukoo1	Laughing Kookaburra	0.3826
+2	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	3.0	6.0	0	15000	succoc	Sulphur-crested Cockatoo	0.4627
+3	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	3.0	6.0	0	15000	laukoo1	Laughing Kookaburra	0.3487
+4	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	6.0	9.0	0	15000	laukoo1	Laughing Kookaburra	0.9784
+5	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	6.0	9.0	0	15000	specha3	Speckled Chachalaca	0.3194
+6	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	9.0	12.0	0	15000	laukoo1	Laughing Kookaburra	0.9750
+7	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	12.0	15.0	0	15000	laukoo1	Laughing Kookaburra	0.9993
+8	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	12.0	15.0	0	15000	gepphe1	Germain's Peacock-Pheasant	0.1447
+9	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	15.0	18.0	0	15000	laukoo1	Laughing Kookaburra	0.9807
+10	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	18.0	21.0	0	15000	laukoo1	Laughing Kookaburra	0.4703
+11	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	18.0	21.0	0	15000	chfmac1	Chestnut-fronted Macaw	0.3941
+12	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	24.0	27.0	0	15000	baybro1	Black-and-yellow Broadbill	0.1717
+13	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC816346 - Laughing Kookaburra - Dacelo novaeguineae.mp3	27	24.0	27.0	0	15000	citwoo1	Cinnamon-throated Woodcreeper	0.1077

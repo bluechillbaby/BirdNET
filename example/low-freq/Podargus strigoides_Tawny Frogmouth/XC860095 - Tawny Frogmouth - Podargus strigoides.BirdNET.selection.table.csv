@@ -1,0 +1,30 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Cuculus optatus,Oriental Cuckoo,0.6712087
+0,3.0,Strix ocellata,Mottled Wood-Owl,0.15202421
+0,3.0,Baryphthengus martii,Rufous Motmot,0.1414293
+3.0,6.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.6442219
+3.0,6.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.54821265
+3.0,6.0,Bucorvus leadbeateri,Southern Ground-Hornbill,0.1923591
+6.0,9.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.42174172
+6.0,9.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.2904613
+9.0,12.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.19317089
+9.0,12.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.10133943
+12.0,15.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.40672144
+12.0,15.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.37368
+24.0,27.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.10470844
+27.0,30.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.7815521
+27.0,30.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.23727395
+27.0,30.0,Bucorvus leadbeateri,Southern Ground-Hornbill,0.22615094
+27.0,30.0,Strix nebulosa,Great Gray Owl,0.1337026
+30.0,33.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.30442137
+30.0,33.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.2646533
+33.0,36.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.24803898
+33.0,36.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.11171202
+36.0,39.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.20464285
+51.0,54.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.8263225
+51.0,54.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.3374237
+54.0,57.0,Ducula lacernulata,Dark-backed Imperial-Pigeon,0.9265957
+54.0,57.0,Bucorvus leadbeateri,Southern Ground-Hornbill,0.21025889
+54.0,57.0,Pyroderus scutatus,Red-ruffed Fruitcrow,0.15752205
+54.0,57.0,Ducula badia,Mountain Imperial-Pigeon,0.1525271
+54.0,57.0,Strix nebulosa,Great Gray Owl,0.11951449

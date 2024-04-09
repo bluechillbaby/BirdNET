@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	0	3.0	0	15000	goldcr1	Goldcrest	0.6760
+2	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	0	3.0	0	15000	splfai1	Splendid Fairywren	0.4627
+3	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	3.0	6.0	0	15000	splfai1	Splendid Fairywren	0.5206
+4	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	6.0	9.0	0	15000	fiscro	Fish Crow	0.3304
+5	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	9.0	12.0	0	15000	bkbtit3	Black-browed Tit	0.1770
+6	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	12.0	15.0	0	15000	splfai1	Splendid Fairywren	0.1332
+7	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	15.0	18.0	0	15000	splfai1	Splendid Fairywren	0.6202
+8	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	24.0	27.0	0	15000	whbbla2	White-browed Meadowlark	0.1481
+9	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	27.0	30.0	0	15000	splfai1	Splendid Fairywren	0.9614
+10	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	30.0	33.0	0	15000	splfai1	Splendid Fairywren	0.6730
+11	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	45.0	48.0	0	15000	splfai1	Splendid Fairywren	0.6561
+12	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	45.0	48.0	0	15000	easkin	Eastern Kingbird	0.1577
+13	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	48.0	51.0	0	15000	splfai1	Splendid Fairywren	0.7977
+14	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	48.0	51.0	0	15000	easkin	Eastern Kingbird	0.2134
+15	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC859937 - Splendid Fairywren - Malurus splendens.mp3	55	51.0	54.0	0	15000	splfai1	Splendid Fairywren	0.1024

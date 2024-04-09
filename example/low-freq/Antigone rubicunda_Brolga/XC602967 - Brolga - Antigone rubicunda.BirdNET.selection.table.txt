@@ -1,0 +1,99 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	0	3.0	0	15000	brolga1	Brolga	0.8988
+2	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	3.0	6.0	0	15000	brolga1	Brolga	0.9972
+3	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	3.0	6.0	0	15000	sancra	Sandhill Crane	0.2993
+4	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	3.0	6.0	0	15000	tunswa	Tundra Swan	0.1622
+5	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	3.0	6.0	0	15000	comcra	Common Crane	0.1149
+6	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	6.0	9.0	0	15000	brolga1	Brolga	0.9607
+7	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	9.0	12.0	0	15000	brolga1	Brolga	0.5485
+8	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	12.0	15.0	0	15000	brolga1	Brolga	0.2862
+9	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	15.0	18.0	0	15000	brolga1	Brolga	0.9131
+10	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	15.0	18.0	0	15000	grefla3	Greater Flamingo	0.5748
+11	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	15.0	18.0	0	15000	auspel1	Australian Pelican	0.2345
+12	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	15.0	18.0	0	15000	reccra1	Red-crowned Crane	0.1531
+13	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	18.0	21.0	0	15000	brolga1	Brolga	0.7888
+14	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	18.0	21.0	0	15000	comcra	Common Crane	0.2806
+15	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	18.0	21.0	0	15000	grefla3	Greater Flamingo	0.1865
+16	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	21.0	24.0	0	15000	brolga1	Brolga	0.9698
+17	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	21.0	24.0	0	15000	grefla3	Greater Flamingo	0.2315
+18	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	24.0	27.0	0	15000	brolga1	Brolga	0.9544
+19	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	24.0	27.0	0	15000	tunswa	Tundra Swan	0.2313
+20	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	27.0	30.0	0	15000	brolga1	Brolga	0.9784
+21	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	27.0	30.0	0	15000	grefla3	Greater Flamingo	0.1716
+22	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	30.0	33.0	0	15000	brolga1	Brolga	0.9934
+23	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	30.0	33.0	0	15000	grbher3	Great Blue Heron	0.1293
+24	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	30.0	33.0	0	15000	grefla3	Greater Flamingo	0.1132
+25	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	33.0	36.0	0	15000	brolga1	Brolga	0.9765
+26	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	33.0	36.0	0	15000	sarcra1	Sarus Crane	0.2527
+27	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	33.0	36.0	0	15000	tunswa	Tundra Swan	0.1741
+28	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	33.0	36.0	0	15000	sancra	Sandhill Crane	0.1342
+29	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	33.0	36.0	0	15000	comcra	Common Crane	0.1273
+30	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	36.0	39.0	0	15000	brolga1	Brolga	0.8322
+31	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	36.0	39.0	0	15000	y00475	American Coot	0.1741
+32	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	39.0	42.0	0	15000	brolga1	Brolga	0.9738
+33	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	39.0	42.0	0	15000	tunswa	Tundra Swan	0.1831
+34	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	42.0	45.0	0	15000	brolga1	Brolga	0.8749
+35	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	42.0	45.0	0	15000	reccra1	Red-crowned Crane	0.2098
+36	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	42.0	45.0	0	15000	comcra	Common Crane	0.1375
+37	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	45.0	48.0	0	15000	brolga1	Brolga	0.7602
+38	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	45.0	48.0	0	15000	comcra	Common Crane	0.3538
+39	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	48.0	51.0	0	15000	brolga1	Brolga	0.9877
+40	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	48.0	51.0	0	15000	comcra	Common Crane	0.5048
+41	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	48.0	51.0	0	15000	tunswa	Tundra Swan	0.2759
+42	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	51.0	54.0	0	15000	brolga1	Brolga	0.9709
+43	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	51.0	54.0	0	15000	comcra	Common Crane	0.1393
+44	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	51.0	54.0	0	15000	tunswa	Tundra Swan	0.1008
+45	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	54.0	57.0	0	15000	brolga1	Brolga	0.9929
+46	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	54.0	57.0	0	15000	sancra	Sandhill Crane	0.4069
+47	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	54.0	57.0	0	15000	batgua1	Band-tailed Guan	0.3632
+48	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	54.0	57.0	0	15000	sarcra1	Sarus Crane	0.1794
+49	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	57.0	60.0	0	15000	brolga1	Brolga	0.9727
+50	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	57.0	60.0	0	15000	comcra	Common Crane	0.1325
+51	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	57.0	60.0	0	15000	tunswa	Tundra Swan	0.1188
+52	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	60.0	63.0	0	15000	brolga1	Brolga	0.8345
+53	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	60.0	63.0	0	15000	comcra	Common Crane	0.2854
+54	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	63.0	66.0	0	15000	comcra	Common Crane	0.7985
+55	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	63.0	66.0	0	15000	brolga1	Brolga	0.5715
+56	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	63.0	66.0	0	15000	sancra	Sandhill Crane	0.2134
+57	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	66.0	69.0	0	15000	brolga1	Brolga	0.9251
+58	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	69.0	72.0	0	15000	brolga1	Brolga	0.9929
+59	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	69.0	72.0	0	15000	grefla3	Greater Flamingo	0.2778
+60	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	69.0	72.0	0	15000	comcra	Common Crane	0.2474
+61	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	72.0	75.0	0	15000	brolga1	Brolga	0.9959
+62	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	72.0	75.0	0	15000	whnrav1	White-necked Raven	0.5520
+63	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	72.0	75.0	0	15000	reccra1	Red-crowned Crane	0.1238
+64	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	75.0	78.0	0	15000	brolga1	Brolga	0.7521
+65	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	75.0	78.0	0	15000	t-11113588	American Bullfrog	0.1047
+66	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	78.0	81.0	0	15000	brolga1	Brolga	0.9400
+67	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	81.0	84.0	0	15000	brolga1	Brolga	0.9896
+68	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	81.0	84.0	0	15000	grefla3	Greater Flamingo	0.2615
+69	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	84.0	87.0	0	15000	brolga1	Brolga	0.9467
+70	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	84.0	87.0	0	15000	batgua1	Band-tailed Guan	0.1177
+71	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	87.0	90.0	0	15000	brolga1	Brolga	0.9265
+72	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	87.0	90.0	0	15000	sancra	Sandhill Crane	0.3976
+73	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	87.0	90.0	0	15000	whoswa	Whooper Swan	0.2153
+74	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	87.0	90.0	0	15000	grefla3	Greater Flamingo	0.1980
+75	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	87.0	90.0	0	15000	tunswa	Tundra Swan	0.1215
+76	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	90.0	93.0	0	15000	brolga1	Brolga	0.9952
+77	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	93.0	96.0	0	15000	brolga1	Brolga	0.9911
+78	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	96.0	99.0	0	15000	brolga1	Brolga	0.9795
+79	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	96.0	99.0	0	15000	comcra	Common Crane	0.1493
+80	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	99.0	102.0	0	15000	brolga1	Brolga	0.8883
+81	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	99.0	102.0	0	15000	batgua1	Band-tailed Guan	0.1315
+82	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	102.0	105.0	0	15000	brolga1	Brolga	0.9607
+83	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	102.0	105.0	0	15000	comcra	Common Crane	0.1158
+84	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	105.0	108.0	0	15000	brolga1	Brolga	0.6951
+85	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	105.0	108.0	0	15000	comcra	Common Crane	0.3079
+86	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	105.0	108.0	0	15000	reccra1	Red-crowned Crane	0.2047
+87	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	108.0	111.0	0	15000	brolga1	Brolga	0.9467
+88	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	108.0	111.0	0	15000	comcra	Common Crane	0.1802
+89	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	111.0	114.0	0	15000	brolga1	Brolga	0.9382
+90	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	111.0	114.0	0	15000	tunswa	Tundra Swan	0.1447
+91	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	114.0	117.0	0	15000	brolga1	Brolga	0.9704
+92	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	114.0	117.0	0	15000	grefla3	Greater Flamingo	0.4351
+93	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	117.0	120.0	0	15000	brolga1	Brolga	0.9853
+94	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	117.0	120.0	0	15000	grefla3	Greater Flamingo	0.2377
+95	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	120.0	123.0	0	15000	brolga1	Brolga	0.9535
+96	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	120.0	123.0	0	15000	comcra	Common Crane	0.1350
+97	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	123.0	126.0	0	15000	brolga1	Brolga	0.9096
+98	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC602967 - Brolga - Antigone rubicunda.mp3	126	123.0	126.0	0	15000	comcra	Common Crane	0.4787

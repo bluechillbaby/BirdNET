@@ -1,0 +1,26 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Corvus coronoides,Australian Raven,0.56204385
+0,3.0,Phylloscopus collybita,Common Chiffchaff,0.16747473
+3.0,6.0,Corvus coronoides,Australian Raven,0.12594493
+6.0,9.0,Corvus coronoides,Australian Raven,0.21473044
+9.0,12.0,Corvus coronoides,Australian Raven,0.24815445
+15.0,18.0,Antigone canadensis,Sandhill Crane,0.2604801
+18.0,21.0,Antigone canadensis,Sandhill Crane,0.99284667
+21.0,24.0,Antigone canadensis,Sandhill Crane,0.41837156
+21.0,24.0,Antigone rubicunda,Brolga,0.33904865
+24.0,27.0,Antigone rubicunda,Brolga,0.42501488
+24.0,27.0,Antigone canadensis,Sandhill Crane,0.10013647
+27.0,30.0,Antigone rubicunda,Brolga,0.6488893
+27.0,30.0,Scythrops novaehollandiae,Channel-billed Cuckoo,0.11414042
+27.0,30.0,Antigone antigone,Sarus Crane,0.10545742
+30.0,33.0,Antigone rubicunda,Brolga,0.4299223
+33.0,36.0,Antigone canadensis,Sandhill Crane,0.74023527
+33.0,36.0,Antigone rubicunda,Brolga,0.50617
+36.0,39.0,Antigone rubicunda,Brolga,0.34257162
+36.0,39.0,Antigone canadensis,Sandhill Crane,0.31695127
+45.0,48.0,Corvus coronoides,Australian Raven,0.117853016
+54.0,57.0,Porzana porzana,Spotted Crake,0.36936802
+54.0,57.0,Loxioides bailleui,Palila,0.31714293
+57.0,60.0,Palmeria dolei,Akohekohe,0.11374818
+57.0,60.0,Herpetotheres cachinnans,Laughing Falcon,0.10352057
+57.0,60.0,Callipepla gambelii,Gambel's Quail,0.103015296

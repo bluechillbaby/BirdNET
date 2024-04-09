@@ -1,0 +1,35 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Morus bassanus,Northern Gannet,0.85975456
+0,3.0,Eupodotis afraoides,White-quilled Bustard,0.12106037
+6.0,9.0,Corvus orru,Torresian Crow,0.821957
+12.0,15.0,Corvus orru,Torresian Crow,0.32071897
+15.0,18.0,Dacelo novaeguineae,Laughing Kookaburra,0.47544542
+15.0,18.0,Corvus orru,Torresian Crow,0.47280198
+18.0,21.0,Corvus orru,Torresian Crow,0.55142856
+18.0,21.0,Corvus macrorhynchos,Large-billed Crow,0.17838389
+18.0,21.0,Dacelo novaeguineae,Laughing Kookaburra,0.17394713
+21.0,24.0,Corvus orru,Torresian Crow,0.8088239
+21.0,24.0,Hydrobates leucorhous,Leach's Storm-Petrel,0.8036899
+21.0,24.0,Dacelo novaeguineae,Laughing Kookaburra,0.33838338
+21.0,24.0,Dryobates minor,Lesser Spotted Woodpecker,0.15866576
+21.0,24.0,Corvus cornix,Hooded Crow,0.10777978
+24.0,27.0,Corvus orru,Torresian Crow,0.5478221
+27.0,30.0,Corvus orru,Torresian Crow,0.8715652
+27.0,30.0,Todiramphus sanctus,Sacred Kingfisher,0.46842378
+27.0,30.0,Dacelo novaeguineae,Laughing Kookaburra,0.22147532
+30.0,33.0,Todiramphus sanctus,Sacred Kingfisher,0.17417075
+30.0,33.0,Corvus orru,Torresian Crow,0.16118604
+33.0,36.0,Corvus orru,Torresian Crow,0.23808265
+33.0,36.0,Morus bassanus,Northern Gannet,0.1796796
+33.0,36.0,Gallinago undulata,Giant Snipe,0.11090623
+36.0,39.0,Todiramphus chloris,Collared Kingfisher,0.543313
+36.0,39.0,Corvus orru,Torresian Crow,0.42379558
+42.0,45.0,Corvus orru,Torresian Crow,0.44645664
+42.0,45.0,Dacelo novaeguineae,Laughing Kookaburra,0.2506197
+48.0,51.0,Ardea alba,Great Egret,0.12844732
+51.0,54.0,Corvus orru,Torresian Crow,0.4617749
+51.0,54.0,Dacelo novaeguineae,Laughing Kookaburra,0.12502837
+54.0,57.0,Corvus orru,Torresian Crow,0.65152615
+54.0,57.0,Dacelo novaeguineae,Laughing Kookaburra,0.3962605
+57.0,60.0,Todiramphus chloris,Collared Kingfisher,0.4895226
+57.0,60.0,Dacelo novaeguineae,Laughing Kookaburra,0.1210006

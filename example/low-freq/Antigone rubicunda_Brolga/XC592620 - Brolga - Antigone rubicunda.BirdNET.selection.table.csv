@@ -1,0 +1,11 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Antigone rubicunda,Brolga,0.5475002
+3.0,6.0,Antigone rubicunda,Brolga,0.96850556
+3.0,6.0,Amazona amazonica,Orange-winged Parrot,0.13400719
+6.0,9.0,Antigone rubicunda,Brolga,0.9389181
+6.0,9.0,Grus japonensis,Red-crowned Crane,0.12321388
+9.0,12.0,Antigone rubicunda,Brolga,0.71775687
+9.0,12.0,Phoenicopterus roseus,Greater Flamingo,0.14108199
+9.0,12.0,Fulica americana,American Coot,0.10726906
+12.0,15.0,Antigone rubicunda,Brolga,0.75399804
+15.0,18.0,Antigone rubicunda,Brolga,0.7526818

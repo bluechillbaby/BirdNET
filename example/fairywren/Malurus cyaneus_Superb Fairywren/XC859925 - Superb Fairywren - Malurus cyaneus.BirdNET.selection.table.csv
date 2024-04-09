@@ -1,0 +1,28 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Aethopyga ignicauda,Fire-tailed Sunbird,0.24779412
+0,3.0,Conirostrum cinereum,Cinereous Conebill,0.11132865
+3.0,6.0,Malurus cyaneus,Superb Fairywren,0.9705955
+6.0,9.0,Malurus cyaneus,Superb Fairywren,0.82252884
+6.0,9.0,Malurus splendens,Splendid Fairywren,0.18869783
+9.0,12.0,Cinnyris chalybeus,Southern Double-collared Sunbird,0.54994845
+9.0,12.0,Malurus cyaneus,Superb Fairywren,0.46158096
+9.0,12.0,Serinus serinus,European Serin,0.100224525
+12.0,15.0,Rhipidura albiscapa,Gray Fantail,0.12274057
+15.0,18.0,Cinnyris chalybeus,Southern Double-collared Sunbird,0.11409231
+18.0,21.0,Serinus serinus,European Serin,0.220926
+21.0,24.0,Malurus cyaneus,Superb Fairywren,0.3840517
+21.0,24.0,Serinus serinus,European Serin,0.2792273
+21.0,24.0,Cinnyris chalybeus,Southern Double-collared Sunbird,0.11307879
+24.0,27.0,Malurus cyaneus,Superb Fairywren,0.1694314
+27.0,30.0,Malurus cyaneus,Superb Fairywren,0.43521038
+30.0,33.0,Malurus cyaneus,Superb Fairywren,0.53446674
+33.0,36.0,Malurus cyaneus,Superb Fairywren,0.13912705
+33.0,36.0,Asemospiza fuliginosa,Sooty Grassquit,0.11434905
+36.0,39.0,Malurus cyaneus,Superb Fairywren,0.77514017
+36.0,39.0,Peucaea sumichrasti,Cinnamon-tailed Sparrow,0.16825388
+42.0,45.0,Malurus cyaneus,Superb Fairywren,0.68958193
+42.0,45.0,Serinus serinus,European Serin,0.1752546
+45.0,48.0,Malurus cyaneus,Superb Fairywren,0.8026631
+51.0,54.0,Malurus cyaneus,Superb Fairywren,0.4539469
+54.0,57.0,Malurus cyaneus,Superb Fairywren,0.9538296
+57.0,60.0,Malurus cyaneus,Superb Fairywren,0.3383973

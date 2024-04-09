@@ -1,0 +1,9 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Dacelo novaeguineae,Laughing Kookaburra,0.719015
+0,3.0,Phoeniculus purpureus,Green Woodhoopoe,0.19113562
+3.0,6.0,Dacelo novaeguineae,Laughing Kookaburra,0.4808592
+6.0,9.0,Anser caerulescens,Snow Goose,0.31211135
+6.0,9.0,Dacelo novaeguineae,Laughing Kookaburra,0.10629475
+9.0,12.0,Anser caerulescens,Snow Goose,0.55312115
+9.0,12.0,Cygnus columbianus,Tundra Swan,0.32682794
+12.0,15.0,Canis latrans,Coyote,0.1456332

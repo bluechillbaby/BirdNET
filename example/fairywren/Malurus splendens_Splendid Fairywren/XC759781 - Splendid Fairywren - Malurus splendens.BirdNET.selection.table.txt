@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC759781 - Splendid Fairywren - Malurus splendens.mp3	14	0	3.0	0	15000	splfai1	Splendid Fairywren	0.6684
+2	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC759781 - Splendid Fairywren - Malurus splendens.mp3	14	0	3.0	0	15000	supfai1	Superb Fairywren	0.1788
+3	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC759781 - Splendid Fairywren - Malurus splendens.mp3	14	3.0	6.0	0	15000	splfai1	Splendid Fairywren	0.9433
+4	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC759781 - Splendid Fairywren - Malurus splendens.mp3	14	6.0	9.0	0	15000	splfai1	Splendid Fairywren	0.8831
+5	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC759781 - Splendid Fairywren - Malurus splendens.mp3	14	9.0	12.0	0	15000	eurtre1	Eurasian Treecreeper	0.1306
+6	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC759781 - Splendid Fairywren - Malurus splendens.mp3	14	9.0	12.0	0	15000	olbpip	Olive-backed Pipit	0.1058
+7	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC759781 - Splendid Fairywren - Malurus splendens.mp3	14	12.0	15.0	0	15000	splfai1	Splendid Fairywren	0.3179

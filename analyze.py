@@ -216,7 +216,7 @@ def saveResultFile(r: dict[str, list], path: str, afile_path: str):
     with open(csv_path, "w", newline='', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         # Write header
-        writer.writerow(["Start (s)", "End (s)", "Scientific name", "Common name", "Confidence"])
+        writer.writerow(["Begin Time (s)", "End Time (s)", "Scientific Name", "Common Name", "Confidence"])
         # Write results
         for timestamp in getSortedTimestamps(r):
             for c in r[timestamp]:

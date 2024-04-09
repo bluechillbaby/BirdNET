@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	3.0	6.0	0	15000	varfai1	Purple-backed Fairywren	0.9325
+2	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	3.0	6.0	0	15000	eurser1	European Serin	0.1218
+3	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	6.0	9.0	0	15000	varfai1	Purple-backed Fairywren	0.9816
+4	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	6.0	9.0	0	15000	whwfai1	White-winged Fairywren	0.2067
+5	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	9.0	12.0	0	15000	varfai1	Purple-backed Fairywren	0.9490
+6	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	12.0	15.0	0	15000	varfai1	Purple-backed Fairywren	0.7226
+7	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	12.0	15.0	0	15000	crebel1	Crested Bellbird	0.1673
+8	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	15.0	18.0	0	15000	varfai1	Purple-backed Fairywren	0.6224
+9	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	15.0	18.0	0	15000	crebel1	Crested Bellbird	0.3749
+10	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	18.0	21.0	0	15000	lecthr	LeConte's Thrasher	0.1755
+11	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC594066 - Purple-backed Fairywren - Malurus assimilis.mp3	22	21.0	24.0	0	15000	cubthr	Curve-billed Thrasher	0.1371

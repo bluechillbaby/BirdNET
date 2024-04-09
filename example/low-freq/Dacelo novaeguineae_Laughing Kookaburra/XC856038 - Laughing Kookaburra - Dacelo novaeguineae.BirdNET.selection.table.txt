@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	0	3.0	0	15000	norgan	Northern Gannet	0.8598
+2	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	0	3.0	0	15000	whqbus1	White-quilled Bustard	0.1211
+3	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	6.0	9.0	0	15000	torcro2	Torresian Crow	0.8220
+4	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	12.0	15.0	0	15000	torcro2	Torresian Crow	0.3207
+5	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	15.0	18.0	0	15000	laukoo1	Laughing Kookaburra	0.4754
+6	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	15.0	18.0	0	15000	torcro2	Torresian Crow	0.4728
+7	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	18.0	21.0	0	15000	torcro2	Torresian Crow	0.5514
+8	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	18.0	21.0	0	15000	labcro1	Large-billed Crow	0.1784
+9	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	18.0	21.0	0	15000	laukoo1	Laughing Kookaburra	0.1739
+10	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	21.0	24.0	0	15000	torcro2	Torresian Crow	0.8088
+11	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	21.0	24.0	0	15000	lcspet	Leach's Storm-Petrel	0.8037
+12	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	21.0	24.0	0	15000	laukoo1	Laughing Kookaburra	0.3384
+13	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	21.0	24.0	0	15000	leswoo1	Lesser Spotted Woodpecker	0.1587
+14	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	21.0	24.0	0	15000	hoocro1	Hooded Crow	0.1078
+15	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	24.0	27.0	0	15000	torcro2	Torresian Crow	0.5478
+16	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	27.0	30.0	0	15000	torcro2	Torresian Crow	0.8716
+17	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	27.0	30.0	0	15000	sackin1	Sacred Kingfisher	0.4684
+18	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	27.0	30.0	0	15000	laukoo1	Laughing Kookaburra	0.2215
+19	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	30.0	33.0	0	15000	sackin1	Sacred Kingfisher	0.1742
+20	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	30.0	33.0	0	15000	torcro2	Torresian Crow	0.1612
+21	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	33.0	36.0	0	15000	torcro2	Torresian Crow	0.2381
+22	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	33.0	36.0	0	15000	norgan	Northern Gannet	0.1797
+23	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	33.0	36.0	0	15000	giasni1	Giant Snipe	0.1109
+24	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	36.0	39.0	0	15000	colkin1	Collared Kingfisher	0.5433
+25	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	36.0	39.0	0	15000	torcro2	Torresian Crow	0.4238
+26	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	42.0	45.0	0	15000	torcro2	Torresian Crow	0.4465
+27	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	42.0	45.0	0	15000	laukoo1	Laughing Kookaburra	0.2506
+28	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	48.0	51.0	0	15000	greegr	Great Egret	0.1284
+29	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	51.0	54.0	0	15000	torcro2	Torresian Crow	0.4618
+30	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	51.0	54.0	0	15000	laukoo1	Laughing Kookaburra	0.1250
+31	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	54.0	57.0	0	15000	torcro2	Torresian Crow	0.6515
+32	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	54.0	57.0	0	15000	laukoo1	Laughing Kookaburra	0.3963
+33	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	57.0	60.0	0	15000	colkin1	Collared Kingfisher	0.4895
+34	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC856038 - Laughing Kookaburra - Dacelo novaeguineae.wav	61	57.0	60.0	0	15000	laukoo1	Laughing Kookaburra	0.1210

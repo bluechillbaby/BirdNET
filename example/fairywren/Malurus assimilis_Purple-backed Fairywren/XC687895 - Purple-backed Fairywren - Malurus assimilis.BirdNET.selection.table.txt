@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	0	3.0	0	15000	varfai1	Purple-backed Fairywren	0.9567
+2	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	0	3.0	0	15000	supfai1	Superb Fairywren	0.6219
+3	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	0	3.0	0	15000	varfai5	Variegated Fairywren	0.5829
+4	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	3.0	6.0	0	15000	supfai1	Superb Fairywren	0.6909
+5	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	3.0	6.0	0	15000	varfai1	Purple-backed Fairywren	0.1913
+6	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	6.0	9.0	0	15000	whphon1	White-plumed Honeyeater	0.1595
+7	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	6.0	9.0	0	15000	strsal1	Streaked Saltator	0.1478
+8	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	6.0	9.0	0	15000	reccar2	Red-cowled Cardinal	0.1073
+9	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	9.0	12.0	0	15000	supfai1	Superb Fairywren	0.6509
+10	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	9.0	12.0	0	15000	varfai1	Purple-backed Fairywren	0.2937
+11	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	12.0	15.0	0	15000	supfai1	Superb Fairywren	0.1516
+12	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	15.0	18.0	0	15000	varfai1	Purple-backed Fairywren	0.4188
+13	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	15.0	18.0	0	15000	varfai5	Variegated Fairywren	0.3746
+14	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	18.0	21.0	0	15000	supfai1	Superb Fairywren	0.3989
+15	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	18.0	21.0	0	15000	varfai1	Purple-backed Fairywren	0.3694
+16	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	18.0	21.0	0	15000	varfai5	Variegated Fairywren	0.3382
+17	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC687895 - Purple-backed Fairywren - Malurus assimilis.mp3	21	18.0	21.0	0	15000	rebfai1	Red-backed Fairywren	0.2556

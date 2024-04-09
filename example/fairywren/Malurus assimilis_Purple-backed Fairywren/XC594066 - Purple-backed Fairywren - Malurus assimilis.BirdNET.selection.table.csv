@@ -1,0 +1,12 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+3.0,6.0,Malurus assimilis,Purple-backed Fairywren,0.9325442
+3.0,6.0,Serinus serinus,European Serin,0.12175184
+6.0,9.0,Malurus assimilis,Purple-backed Fairywren,0.9816133
+6.0,9.0,Malurus leucopterus,White-winged Fairywren,0.20674746
+9.0,12.0,Malurus assimilis,Purple-backed Fairywren,0.94896257
+12.0,15.0,Malurus assimilis,Purple-backed Fairywren,0.7225873
+12.0,15.0,Oreoica gutturalis,Crested Bellbird,0.16729768
+15.0,18.0,Malurus assimilis,Purple-backed Fairywren,0.6224249
+15.0,18.0,Oreoica gutturalis,Crested Bellbird,0.3749126
+18.0,21.0,Toxostoma lecontei,LeConte's Thrasher,0.17551325
+21.0,24.0,Toxostoma curvirostre,Curve-billed Thrasher,0.13705353

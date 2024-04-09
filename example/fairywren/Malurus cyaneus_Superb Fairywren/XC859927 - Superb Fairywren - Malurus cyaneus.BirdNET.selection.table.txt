@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	0	3.0	0	15000	supfai1	Superb Fairywren	0.9434
+2	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	3.0	6.0	0	15000	supfai1	Superb Fairywren	0.5992
+3	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	6.0	9.0	0	15000	supfai1	Superb Fairywren	0.9981
+4	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	9.0	12.0	0	15000	burtho1	Buff-rumped Thornbill	0.4152
+5	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	9.0	12.0	0	15000	yertho1	Yellow-rumped Thornbill	0.1012
+6	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	12.0	15.0	0	15000	supfai1	Superb Fairywren	0.9101
+7	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	12.0	15.0	0	15000	bushti	Bushtit	0.2903
+8	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	15.0	18.0	0	15000	supfai1	Superb Fairywren	0.6454
+9	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	18.0	21.0	0	15000	supfai1	Superb Fairywren	0.5923
+10	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	24.0	27.0	0	15000	supfai1	Superb Fairywren	0.3166
+11	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	27.0	30.0	0	15000	supfai1	Superb Fairywren	0.2503
+12	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	27.0	30.0	0	15000	tasscr1	Tasmanian Scrubwren	0.1898
+13	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	30.0	33.0	0	15000	supfai1	Superb Fairywren	0.9433
+14	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	36.0	39.0	0	15000	supfai1	Superb Fairywren	0.4676
+15	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	39.0	42.0	0	15000	supfai1	Superb Fairywren	0.9924
+16	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	42.0	45.0	0	15000	supfai1	Superb Fairywren	0.6634
+17	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	45.0	48.0	0	15000	supfai1	Superb Fairywren	0.9240
+18	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	48.0	51.0	0	15000	supfai1	Superb Fairywren	0.7521
+19	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	51.0	54.0	0	15000	supfai1	Superb Fairywren	0.9514
+20	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859927 - Superb Fairywren - Malurus cyaneus.mp3	57	54.0	57.0	0	15000	supfai1	Superb Fairywren	0.9126

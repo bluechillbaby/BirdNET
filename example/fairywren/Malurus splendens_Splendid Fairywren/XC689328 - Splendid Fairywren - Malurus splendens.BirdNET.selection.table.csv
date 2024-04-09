@@ -1,0 +1,15 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Malurus splendens,Splendid Fairywren,0.8899306
+0,3.0,Malurus cyaneus,Superb Fairywren,0.10982623
+3.0,6.0,Malurus splendens,Splendid Fairywren,0.95863366
+6.0,9.0,Malurus cyaneus,Superb Fairywren,0.5707926
+6.0,9.0,Malurus splendens,Splendid Fairywren,0.1771091
+9.0,12.0,Malurus splendens,Splendid Fairywren,0.99336547
+12.0,15.0,Malurus splendens,Splendid Fairywren,0.41973302
+12.0,15.0,Malurus cyaneus,Superb Fairywren,0.3120318
+12.0,15.0,Aegithalos concinnus,Black-throated Tit,0.22988144
+12.0,15.0,Stipiturus malachurus,Southern Emuwren,0.21939337
+15.0,18.0,Malurus splendens,Splendid Fairywren,0.9635089
+15.0,18.0,Malurus cyaneus,Superb Fairywren,0.14213708
+18.0,21.0,Malurus cyaneus,Superb Fairywren,0.81377316
+18.0,21.0,Malurus splendens,Splendid Fairywren,0.40154234

@@ -1,0 +1,14 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Dacelo novaeguineae,Laughing Kookaburra,0.38263017
+3.0,6.0,Cacatua galerita,Sulphur-crested Cockatoo,0.46272117
+3.0,6.0,Dacelo novaeguineae,Laughing Kookaburra,0.34874898
+6.0,9.0,Dacelo novaeguineae,Laughing Kookaburra,0.97840106
+6.0,9.0,Ortalis guttata,Speckled Chachalaca,0.31943327
+9.0,12.0,Dacelo novaeguineae,Laughing Kookaburra,0.97504276
+12.0,15.0,Dacelo novaeguineae,Laughing Kookaburra,0.99926585
+12.0,15.0,Polyplectron germaini,Germain's Peacock-Pheasant,0.1446634
+15.0,18.0,Dacelo novaeguineae,Laughing Kookaburra,0.98069376
+18.0,21.0,Dacelo novaeguineae,Laughing Kookaburra,0.47026
+18.0,21.0,Ara severus,Chestnut-fronted Macaw,0.3941438
+24.0,27.0,Eurylaimus ochromalus,Black-and-yellow Broadbill,0.17168958
+24.0,27.0,Dendrexetastes rufigula,Cinnamon-throated Woodcreeper,0.10770119

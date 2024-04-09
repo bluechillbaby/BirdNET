@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859928 - Superb Fairywren - Malurus cyaneus.mp3	13	0	3.0	0	15000	supfai1	Superb Fairywren	0.9606
+2	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859928 - Superb Fairywren - Malurus cyaneus.mp3	13	3.0	6.0	0	15000	supfai1	Superb Fairywren	0.4329
+3	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859928 - Superb Fairywren - Malurus cyaneus.mp3	13	6.0	9.0	0	15000	supfai1	Superb Fairywren	0.7702
+4	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859928 - Superb Fairywren - Malurus cyaneus.mp3	13	9.0	12.0	0	15000	supfai1	Superb Fairywren	0.5842

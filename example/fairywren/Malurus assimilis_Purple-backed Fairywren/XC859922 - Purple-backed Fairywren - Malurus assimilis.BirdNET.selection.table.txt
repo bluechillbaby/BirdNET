@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	0	3.0	0	15000	rebfai1	Red-backed Fairywren	0.1930
+2	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	3.0	6.0	0	15000	varfai1	Purple-backed Fairywren	0.3653
+3	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	6.0	9.0	0	15000	varfai1	Purple-backed Fairywren	0.2348
+4	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	6.0	9.0	0	15000	mcptit1	Mouse-colored Penduline-Tit	0.1895
+5	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	6.0	9.0	0	15000	blttra1	Black-tailed Trainbearer	0.1250
+6	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	9.0	12.0	0	15000	varfai1	Purple-backed Fairywren	0.7176
+7	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	12.0	15.0	0	15000	grbfir1	Green-backed Firecrown	0.6016
+8	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	12.0	15.0	0	15000	varfai1	Purple-backed Fairywren	0.3029
+9	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	15.0	18.0	0	15000	brbtan1	Brassy-breasted Tanager	0.1824
+10	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	24.0	27.0	0	15000	firecr1	Common Firecrest	0.1848
+11	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	30.0	33.0	0	15000	btbeat1	Blue-tailed Bee-eater	0.3914
+12	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	30.0	33.0	0	15000	grbfir1	Green-backed Firecrown	0.2089
+13	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	30.0	33.0	0	15000	batapa2	Bar-throated Apalis	0.1741
+14	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	30.0	33.0	0	15000	whbwar2	White-browed Warbler	0.1509
+15	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	30.0	33.0	0	15000	sonthr1	Song Thrush	0.1054
+16	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	33.0	36.0	0	15000	eurtre1	Eurasian Treecreeper	0.3229
+17	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	33.0	36.0	0	15000	varfai1	Purple-backed Fairywren	0.2562
+18	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	33.0	36.0	0	15000	gockin	Golden-crowned Kinglet	0.1293
+19	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	42.0	45.0	0	15000	grywag	Gray Wagtail	0.6613
+20	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	45.0	48.0	0	15000	varfai1	Purple-backed Fairywren	0.9150
+21	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	54.0	57.0	0	15000	grywag	Gray Wagtail	0.2562
+22	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	57.0	60.0	0	15000	grywag	Gray Wagtail	0.1510
+23	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	63.0	66.0	0	15000	varfai1	Purple-backed Fairywren	0.3786
+24	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	66.0	69.0	0	15000	rebfai1	Red-backed Fairywren	0.3093
+25	Spectrogram 1	1	example/fairywren\Malurus assimilis_Purple-backed Fairywren\XC859922 - Purple-backed Fairywren - Malurus assimilis.mp3	73	66.0	69.0	0	15000	varfai1	Purple-backed Fairywren	0.1679

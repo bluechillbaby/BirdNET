@@ -1,0 +1,44 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+6.0,9.0,Phaps chalcoptera,Common Bronzewing,0.22407544
+6.0,9.0,Tympanuchus cupido,Greater Prairie-Chicken,0.11298676
+9.0,12.0,Tympanuchus cupido,Greater Prairie-Chicken,0.80139387
+12.0,15.0,Tympanuchus cupido,Greater Prairie-Chicken,0.5835935
+12.0,15.0,Phaps chalcoptera,Common Bronzewing,0.108124465
+15.0,18.0,Tympanuchus cupido,Greater Prairie-Chicken,0.3187162
+15.0,18.0,Bubo virginianus,Great Horned Owl,0.16895157
+18.0,21.0,Asio otus,Long-eared Owl,0.1536493
+18.0,21.0,Tympanuchus cupido,Greater Prairie-Chicken,0.1523615
+21.0,24.0,Bubo virginianus,Great Horned Owl,0.28836298
+21.0,24.0,Tympanuchus cupido,Greater Prairie-Chicken,0.19281949
+24.0,27.0,Bubo virginianus,Great Horned Owl,0.69792134
+27.0,30.0,Bubo virginianus,Great Horned Owl,0.88507956
+30.0,33.0,Bubo virginianus,Great Horned Owl,0.6112852
+30.0,33.0,Asio otus,Long-eared Owl,0.27056286
+57.0,60.0,Bubo virginianus,Great Horned Owl,0.21356142
+63.0,66.0,Bubo virginianus,Great Horned Owl,0.4826648
+63.0,66.0,Tympanuchus phasianellus,Sharp-tailed Grouse,0.10449634
+66.0,69.0,Bubo virginianus,Great Horned Owl,0.20631139
+66.0,69.0,Gavia adamsii,Yellow-billed Loon,0.10622245
+69.0,72.0,Bubo virginianus,Great Horned Owl,0.2416733
+69.0,72.0,Gavia adamsii,Yellow-billed Loon,0.14623144
+72.0,75.0,Gavia pacifica,Pacific Loon,0.13440257
+72.0,75.0,Bubo virginianus,Great Horned Owl,0.11868884
+75.0,78.0,Gavia adamsii,Yellow-billed Loon,0.13539302
+99.0,102.0,Asio otus,Long-eared Owl,0.28843662
+99.0,102.0,Bubo virginianus,Great Horned Owl,0.16119751
+99.0,102.0,Bubo bubo,Eurasian Eagle-Owl,0.1386131
+105.0,108.0,Bubo virginianus,Great Horned Owl,0.16367744
+108.0,111.0,Gavia adamsii,Yellow-billed Loon,0.13959162
+108.0,111.0,Gavia pacifica,Pacific Loon,0.11671447
+111.0,114.0,Bubo virginianus,Great Horned Owl,0.17646767
+114.0,117.0,Bubo virginianus,Great Horned Owl,0.2337603
+114.0,117.0,Tadorna ferruginea,Ruddy Shelduck,0.17944995
+114.0,117.0,Asio otus,Long-eared Owl,0.11752762
+117.0,120.0,Gavia pacifica,Pacific Loon,0.2248916
+117.0,120.0,Gavia adamsii,Yellow-billed Loon,0.1278656
+117.0,120.0,Bubo virginianus,Great Horned Owl,0.10812346
+120.0,123.0,Bubo virginianus,Great Horned Owl,0.2536154
+120.0,123.0,Tadorna ferruginea,Ruddy Shelduck,0.1308171
+120.0,123.0,Gavia adamsii,Yellow-billed Loon,0.10472079
+123.0,126.0,Gavia pacifica,Pacific Loon,0.22869177
+123.0,126.0,Gavia adamsii,Yellow-billed Loon,0.12377959

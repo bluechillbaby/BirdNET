@@ -1,0 +1,44 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	6.0	9.0	0	15000	combro1	Common Bronzewing	0.2241
+2	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	6.0	9.0	0	15000	grpchi	Greater Prairie-Chicken	0.1130
+3	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	9.0	12.0	0	15000	grpchi	Greater Prairie-Chicken	0.8014
+4	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	12.0	15.0	0	15000	grpchi	Greater Prairie-Chicken	0.5836
+5	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	12.0	15.0	0	15000	combro1	Common Bronzewing	0.1081
+6	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	15.0	18.0	0	15000	grpchi	Greater Prairie-Chicken	0.3187
+7	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	15.0	18.0	0	15000	grhowl	Great Horned Owl	0.1690
+8	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	18.0	21.0	0	15000	loeowl	Long-eared Owl	0.1536
+9	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	18.0	21.0	0	15000	grpchi	Greater Prairie-Chicken	0.1524
+10	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	21.0	24.0	0	15000	grhowl	Great Horned Owl	0.2884
+11	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	21.0	24.0	0	15000	grpchi	Greater Prairie-Chicken	0.1928
+12	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	24.0	27.0	0	15000	grhowl	Great Horned Owl	0.6979
+13	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	27.0	30.0	0	15000	grhowl	Great Horned Owl	0.8851
+14	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	30.0	33.0	0	15000	grhowl	Great Horned Owl	0.6113
+15	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	30.0	33.0	0	15000	loeowl	Long-eared Owl	0.2706
+16	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	57.0	60.0	0	15000	grhowl	Great Horned Owl	0.2136
+17	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	63.0	66.0	0	15000	grhowl	Great Horned Owl	0.4827
+18	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	63.0	66.0	0	15000	shtgro	Sharp-tailed Grouse	0.1045
+19	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	66.0	69.0	0	15000	grhowl	Great Horned Owl	0.2063
+20	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	66.0	69.0	0	15000	yebloo	Yellow-billed Loon	0.1062
+21	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	69.0	72.0	0	15000	grhowl	Great Horned Owl	0.2417
+22	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	69.0	72.0	0	15000	yebloo	Yellow-billed Loon	0.1462
+23	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	72.0	75.0	0	15000	pacloo	Pacific Loon	0.1344
+24	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	72.0	75.0	0	15000	grhowl	Great Horned Owl	0.1187
+25	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	75.0	78.0	0	15000	yebloo	Yellow-billed Loon	0.1354
+26	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	99.0	102.0	0	15000	loeowl	Long-eared Owl	0.2884
+27	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	99.0	102.0	0	15000	grhowl	Great Horned Owl	0.1612
+28	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	99.0	102.0	0	15000	eueowl1	Eurasian Eagle-Owl	0.1386
+29	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	105.0	108.0	0	15000	grhowl	Great Horned Owl	0.1637
+30	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	108.0	111.0	0	15000	yebloo	Yellow-billed Loon	0.1396
+31	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	108.0	111.0	0	15000	pacloo	Pacific Loon	0.1167
+32	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	111.0	114.0	0	15000	grhowl	Great Horned Owl	0.1765
+33	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	114.0	117.0	0	15000	grhowl	Great Horned Owl	0.2338
+34	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	114.0	117.0	0	15000	rudshe	Ruddy Shelduck	0.1794
+35	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	114.0	117.0	0	15000	loeowl	Long-eared Owl	0.1175
+36	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	117.0	120.0	0	15000	pacloo	Pacific Loon	0.2249
+37	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	117.0	120.0	0	15000	yebloo	Yellow-billed Loon	0.1279
+38	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	117.0	120.0	0	15000	grhowl	Great Horned Owl	0.1081
+39	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	120.0	123.0	0	15000	grhowl	Great Horned Owl	0.2536
+40	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	120.0	123.0	0	15000	rudshe	Ruddy Shelduck	0.1308
+41	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	120.0	123.0	0	15000	yebloo	Yellow-billed Loon	0.1047
+42	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	123.0	126.0	0	15000	pacloo	Pacific Loon	0.2287
+43	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC561573 - Tawny Frogmouth - Podargus strigoides brachypterus.mp3	150	123.0	126.0	0	15000	yebloo	Yellow-billed Loon	0.1238

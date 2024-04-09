@@ -1,0 +1,15 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Malurus assimilis,Purple-backed Fairywren,0.9884284
+3.0,6.0,Malurus assimilis,Purple-backed Fairywren,0.78544194
+3.0,6.0,Malurus cyaneus,Superb Fairywren,0.25037485
+3.0,6.0,Daphoenositta chrysoptera,Varied Sittella,0.101948045
+6.0,9.0,Malurus assimilis,Purple-backed Fairywren,0.17324072
+6.0,9.0,Cisticola juncidis,Zitting Cisticola,0.16127796
+9.0,12.0,Lalage tricolor,White-winged Triller,0.34708166
+9.0,12.0,Phylloscopus fuscatus,Dusky Warbler,0.14177187
+12.0,15.0,Malurus assimilis,Purple-backed Fairywren,0.51292735
+15.0,18.0,Tringa ochropus,Green Sandpiper,0.4206406
+15.0,18.0,Icterus parisorum,Scott's Oriole,0.181933
+18.0,21.0,Pseudocolopteryx citreola,Ticking Doradito,0.18505682
+18.0,21.0,Euplectes orix,Southern Red Bishop,0.16819748
+24.0,27.0,Lalage tricolor,White-winged Triller,0.3239234

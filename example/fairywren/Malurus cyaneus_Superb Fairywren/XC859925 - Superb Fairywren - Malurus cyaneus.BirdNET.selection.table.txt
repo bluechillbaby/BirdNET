@@ -1,0 +1,28 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	0	3.0	0	15000	fitsun1	Fire-tailed Sunbird	0.2478
+2	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	0	3.0	0	15000	cincon1	Cinereous Conebill	0.1113
+3	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	3.0	6.0	0	15000	supfai1	Superb Fairywren	0.9706
+4	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	6.0	9.0	0	15000	supfai1	Superb Fairywren	0.8225
+5	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	6.0	9.0	0	15000	splfai1	Splendid Fairywren	0.1887
+6	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	9.0	12.0	0	15000	sdcsun3	Southern Double-collared Sunbird	0.5499
+7	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	9.0	12.0	0	15000	supfai1	Superb Fairywren	0.4616
+8	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	9.0	12.0	0	15000	eurser1	European Serin	0.1002
+9	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	12.0	15.0	0	15000	gryfan1	Gray Fantail	0.1227
+10	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	15.0	18.0	0	15000	sdcsun3	Southern Double-collared Sunbird	0.1141
+11	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	18.0	21.0	0	15000	eurser1	European Serin	0.2209
+12	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	21.0	24.0	0	15000	supfai1	Superb Fairywren	0.3841
+13	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	21.0	24.0	0	15000	eurser1	European Serin	0.2792
+14	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	21.0	24.0	0	15000	sdcsun3	Southern Double-collared Sunbird	0.1131
+15	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	24.0	27.0	0	15000	supfai1	Superb Fairywren	0.1694
+16	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	27.0	30.0	0	15000	supfai1	Superb Fairywren	0.4352
+17	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	30.0	33.0	0	15000	supfai1	Superb Fairywren	0.5345
+18	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	33.0	36.0	0	15000	supfai1	Superb Fairywren	0.1391
+19	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	33.0	36.0	0	15000	soogra2	Sooty Grassquit	0.1143
+20	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	36.0	39.0	0	15000	supfai1	Superb Fairywren	0.7751
+21	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	36.0	39.0	0	15000	citspa1	Cinnamon-tailed Sparrow	0.1683
+22	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	42.0	45.0	0	15000	supfai1	Superb Fairywren	0.6896
+23	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	42.0	45.0	0	15000	eurser1	European Serin	0.1753
+24	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	45.0	48.0	0	15000	supfai1	Superb Fairywren	0.8027
+25	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	51.0	54.0	0	15000	supfai1	Superb Fairywren	0.4539
+26	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	54.0	57.0	0	15000	supfai1	Superb Fairywren	0.9538
+27	Spectrogram 1	1	example/fairywren\Malurus cyaneus_Superb Fairywren\XC859925 - Superb Fairywren - Malurus cyaneus.mp3	61	57.0	60.0	0	15000	supfai1	Superb Fairywren	0.3384

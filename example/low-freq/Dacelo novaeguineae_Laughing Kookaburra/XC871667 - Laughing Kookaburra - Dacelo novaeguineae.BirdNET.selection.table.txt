@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC871667 - Laughing Kookaburra - Dacelo novaeguineae.wav	22	0	3.0	0	15000	laukoo1	Laughing Kookaburra	0.9456
+2	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC871667 - Laughing Kookaburra - Dacelo novaeguineae.wav	22	3.0	6.0	0	15000	laukoo1	Laughing Kookaburra	0.5391
+3	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC871667 - Laughing Kookaburra - Dacelo novaeguineae.wav	22	6.0	9.0	0	15000	laukoo1	Laughing Kookaburra	0.9994
+4	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC871667 - Laughing Kookaburra - Dacelo novaeguineae.wav	22	9.0	12.0	0	15000	chwwid	Chuck-will's-widow	0.1949
+5	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC871667 - Laughing Kookaburra - Dacelo novaeguineae.wav	22	12.0	15.0	0	15000	whtspa	White-throated Sparrow	0.1117
+6	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC871667 - Laughing Kookaburra - Dacelo novaeguineae.wav	22	15.0	18.0	0	15000	wibwre1	Wing-banded Wren	0.3734
+7	Spectrogram 1	1	example/low-freq\Dacelo novaeguineae_Laughing Kookaburra\XC871667 - Laughing Kookaburra - Dacelo novaeguineae.wav	22	18.0	21.0	0	15000	gryfan1	Gray Fantail	0.1512

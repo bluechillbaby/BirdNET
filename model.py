@@ -22,7 +22,8 @@ try:
 except ModuleNotFoundError:
     from tensorflow import lite as tflite
 if not cfg.MODEL_PATH.endswith(".tflite"):
-    from tensorflow import keras
+    # from tensorflow import keras
+    import keras
 
 INTERPRETER: tflite.Interpreter = None
 C_INTERPRETER: tflite.Interpreter = None
@@ -133,8 +134,8 @@ def buildLinearClassifier(num_labels, input_size, hidden_units=0, dropout=0.0):
     Returns:
         A new classifier.
     """
-    # import keras
-    from tensorflow import keras
+    import keras
+    # from tensorflow import keras
 
     # Build a simple one- or two-layer linear classifier
     model = keras.Sequential()
@@ -191,8 +192,8 @@ def trainLinearClassifier(
     Returns:
         (classifier, history)
     """
-    # import keras
-    from tensorflow import keras
+    import keras
+    # from tensorflow import keras
 
     class FunctionCallback(keras.callbacks.Callback):
         def __init__(self, on_epoch_end=None) -> None:

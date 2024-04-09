@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	3.0	6.0	0	15000	supfai1	Superb Fairywren	0.7946
+2	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	3.0	6.0	0	15000	splfai1	Splendid Fairywren	0.6438
+3	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	6.0	9.0	0	15000	splfai1	Splendid Fairywren	0.9273
+4	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	6.0	9.0	0	15000	supfai1	Superb Fairywren	0.1615
+5	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	6.0	9.0	0	15000	ndcsun2	Northern Double-collared Sunbird	0.1425
+6	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	9.0	12.0	0	15000	supfai1	Superb Fairywren	0.7036
+7	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	9.0	12.0	0	15000	splfai1	Splendid Fairywren	0.1688
+8	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	12.0	15.0	0	15000	supfai1	Superb Fairywren	0.7896
+9	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	12.0	15.0	0	15000	splfai1	Splendid Fairywren	0.4133
+10	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	18.0	21.0	0	15000	supfai1	Superb Fairywren	0.9504
+11	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	18.0	21.0	0	15000	splfai1	Splendid Fairywren	0.3153
+12	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	21.0	24.0	0	15000	splfai1	Splendid Fairywren	0.2264
+13	Spectrogram 1	1	example/fairywren\Malurus splendens_Splendid Fairywren\XC689329 - Splendid Fairywren - Malurus splendens.mp3	25	21.0	24.0	0	15000	supfai1	Superb Fairywren	0.1440

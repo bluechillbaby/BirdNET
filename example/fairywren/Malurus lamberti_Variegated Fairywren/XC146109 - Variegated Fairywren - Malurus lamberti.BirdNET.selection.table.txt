@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	0	3.0	0	15000	varfai5	Variegated Fairywren	0.9611
+2	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	0	3.0	0	15000	pacwre1	Pacific Wren	0.4495
+3	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	0	3.0	0	15000	fibflo2	Fire-breasted Flowerpecker	0.1506
+4	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	0	3.0	0	15000	foxspa	Fox Sparrow	0.1486
+5	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	0	3.0	0	15000	gockin	Golden-crowned Kinglet	0.1054
+6	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	3.0	6.0	0	15000	varfai5	Variegated Fairywren	0.4445
+7	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	6.0	9.0	0	15000	hanfly1	Handsome Flycatcher	0.1476
+8	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	9.0	12.0	0	15000	varfai5	Variegated Fairywren	0.9705
+9	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	9.0	12.0	0	15000	lesvio1	Lesser Violetear	0.1270
+10	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	12.0	15.0	0	15000	varfai5	Variegated Fairywren	0.9600
+11	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	12.0	15.0	0	15000	pacwre1	Pacific Wren	0.5855
+12	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC146109 - Variegated Fairywren - Malurus lamberti.mp3	16	15.0	18.0	0	15000	varfai5	Variegated Fairywren	0.1950

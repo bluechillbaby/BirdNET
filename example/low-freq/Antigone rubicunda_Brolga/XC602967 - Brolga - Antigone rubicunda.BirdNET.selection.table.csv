@@ -1,0 +1,99 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Antigone rubicunda,Brolga,0.89876366
+3.0,6.0,Antigone rubicunda,Brolga,0.99721056
+3.0,6.0,Antigone canadensis,Sandhill Crane,0.2993034
+3.0,6.0,Cygnus columbianus,Tundra Swan,0.1622099
+3.0,6.0,Grus grus,Common Crane,0.114876434
+6.0,9.0,Antigone rubicunda,Brolga,0.9606938
+9.0,12.0,Antigone rubicunda,Brolga,0.5484707
+12.0,15.0,Antigone rubicunda,Brolga,0.28617045
+15.0,18.0,Antigone rubicunda,Brolga,0.9130943
+15.0,18.0,Phoenicopterus roseus,Greater Flamingo,0.57477146
+15.0,18.0,Pelecanus conspicillatus,Australian Pelican,0.2344759
+15.0,18.0,Grus japonensis,Red-crowned Crane,0.15314835
+18.0,21.0,Antigone rubicunda,Brolga,0.7888459
+18.0,21.0,Grus grus,Common Crane,0.28057137
+18.0,21.0,Phoenicopterus roseus,Greater Flamingo,0.18649484
+21.0,24.0,Antigone rubicunda,Brolga,0.96982926
+21.0,24.0,Phoenicopterus roseus,Greater Flamingo,0.23145656
+24.0,27.0,Antigone rubicunda,Brolga,0.95442206
+24.0,27.0,Cygnus columbianus,Tundra Swan,0.23129866
+27.0,30.0,Antigone rubicunda,Brolga,0.9784067
+27.0,30.0,Phoenicopterus roseus,Greater Flamingo,0.17156652
+30.0,33.0,Antigone rubicunda,Brolga,0.99338394
+30.0,33.0,Ardea herodias,Great Blue Heron,0.12926215
+30.0,33.0,Phoenicopterus roseus,Greater Flamingo,0.11323967
+33.0,36.0,Antigone rubicunda,Brolga,0.976485
+33.0,36.0,Antigone antigone,Sarus Crane,0.25273615
+33.0,36.0,Cygnus columbianus,Tundra Swan,0.17408371
+33.0,36.0,Antigone canadensis,Sandhill Crane,0.13420214
+33.0,36.0,Grus grus,Common Crane,0.12726709
+36.0,39.0,Antigone rubicunda,Brolga,0.83220947
+36.0,39.0,Fulica americana,American Coot,0.17405841
+39.0,42.0,Antigone rubicunda,Brolga,0.9737724
+39.0,42.0,Cygnus columbianus,Tundra Swan,0.18306953
+42.0,45.0,Antigone rubicunda,Brolga,0.87487805
+42.0,45.0,Grus japonensis,Red-crowned Crane,0.20982376
+42.0,45.0,Grus grus,Common Crane,0.13746293
+45.0,48.0,Antigone rubicunda,Brolga,0.76023364
+45.0,48.0,Grus grus,Common Crane,0.3538295
+48.0,51.0,Antigone rubicunda,Brolga,0.9877202
+48.0,51.0,Grus grus,Common Crane,0.50475895
+48.0,51.0,Cygnus columbianus,Tundra Swan,0.27588105
+51.0,54.0,Antigone rubicunda,Brolga,0.9708819
+51.0,54.0,Grus grus,Common Crane,0.13934062
+51.0,54.0,Cygnus columbianus,Tundra Swan,0.10076458
+54.0,57.0,Antigone rubicunda,Brolga,0.992934
+54.0,57.0,Antigone canadensis,Sandhill Crane,0.40689257
+54.0,57.0,Penelope argyrotis,Band-tailed Guan,0.3631877
+54.0,57.0,Antigone antigone,Sarus Crane,0.17942925
+57.0,60.0,Antigone rubicunda,Brolga,0.97273445
+57.0,60.0,Grus grus,Common Crane,0.13251582
+57.0,60.0,Cygnus columbianus,Tundra Swan,0.11879902
+60.0,63.0,Antigone rubicunda,Brolga,0.83451664
+60.0,63.0,Grus grus,Common Crane,0.28542128
+63.0,66.0,Grus grus,Common Crane,0.79851663
+63.0,66.0,Antigone rubicunda,Brolga,0.5714749
+63.0,66.0,Antigone canadensis,Sandhill Crane,0.21337366
+66.0,69.0,Antigone rubicunda,Brolga,0.9250562
+69.0,72.0,Antigone rubicunda,Brolga,0.9929234
+69.0,72.0,Phoenicopterus roseus,Greater Flamingo,0.27780685
+69.0,72.0,Grus grus,Common Crane,0.24740106
+72.0,75.0,Antigone rubicunda,Brolga,0.9959409
+72.0,75.0,Corvus albicollis,White-necked Raven,0.552034
+72.0,75.0,Grus japonensis,Red-crowned Crane,0.123849824
+75.0,78.0,Antigone rubicunda,Brolga,0.7520923
+75.0,78.0,Lithobates catesbeianus,American Bullfrog,0.10466573
+78.0,81.0,Antigone rubicunda,Brolga,0.9399683
+81.0,84.0,Antigone rubicunda,Brolga,0.9896374
+81.0,84.0,Phoenicopterus roseus,Greater Flamingo,0.2615381
+84.0,87.0,Antigone rubicunda,Brolga,0.9466897
+84.0,87.0,Penelope argyrotis,Band-tailed Guan,0.11773622
+87.0,90.0,Antigone rubicunda,Brolga,0.92651933
+87.0,90.0,Antigone canadensis,Sandhill Crane,0.3975566
+87.0,90.0,Cygnus cygnus,Whooper Swan,0.21532568
+87.0,90.0,Phoenicopterus roseus,Greater Flamingo,0.19802
+87.0,90.0,Cygnus columbianus,Tundra Swan,0.12145141
+90.0,93.0,Antigone rubicunda,Brolga,0.99515164
+93.0,96.0,Antigone rubicunda,Brolga,0.99110425
+96.0,99.0,Antigone rubicunda,Brolga,0.9794724
+96.0,99.0,Grus grus,Common Crane,0.14928022
+99.0,102.0,Antigone rubicunda,Brolga,0.8882803
+99.0,102.0,Penelope argyrotis,Band-tailed Guan,0.1314726
+102.0,105.0,Antigone rubicunda,Brolga,0.9607487
+102.0,105.0,Grus grus,Common Crane,0.11578353
+105.0,108.0,Antigone rubicunda,Brolga,0.6950771
+105.0,108.0,Grus grus,Common Crane,0.30788857
+105.0,108.0,Grus japonensis,Red-crowned Crane,0.20474814
+108.0,111.0,Antigone rubicunda,Brolga,0.9466745
+108.0,111.0,Grus grus,Common Crane,0.18024012
+111.0,114.0,Antigone rubicunda,Brolga,0.93819356
+111.0,114.0,Cygnus columbianus,Tundra Swan,0.14473476
+114.0,117.0,Antigone rubicunda,Brolga,0.970447
+114.0,117.0,Phoenicopterus roseus,Greater Flamingo,0.43512502
+117.0,120.0,Antigone rubicunda,Brolga,0.9853081
+117.0,120.0,Phoenicopterus roseus,Greater Flamingo,0.23767176
+120.0,123.0,Antigone rubicunda,Brolga,0.9535195
+120.0,123.0,Grus grus,Common Crane,0.1349669
+123.0,126.0,Antigone rubicunda,Brolga,0.9096122
+123.0,126.0,Grus grus,Common Crane,0.4786815

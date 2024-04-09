@@ -1,0 +1,12 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Nothocrax urumutum,Nocturnal Curassow,0.23795184
+3.0,6.0,Podargus strigoides,Tawny Frogmouth,0.59210396
+3.0,6.0,Nothocrax urumutum,Nocturnal Curassow,0.16485347
+6.0,9.0,Podargus strigoides,Tawny Frogmouth,0.6920116
+6.0,9.0,Nothocrax urumutum,Nocturnal Curassow,0.29731032
+9.0,12.0,Podargus strigoides,Tawny Frogmouth,0.6826851
+9.0,12.0,Nothocrax urumutum,Nocturnal Curassow,0.18721496
+12.0,15.0,Podargus strigoides,Tawny Frogmouth,0.92441165
+12.0,15.0,Nothocrax urumutum,Nocturnal Curassow,0.38336918
+15.0,18.0,Podargus strigoides,Tawny Frogmouth,0.92522144
+18.0,21.0,Nyctiprogne leucopyga,Band-tailed Nighthawk,0.15506728

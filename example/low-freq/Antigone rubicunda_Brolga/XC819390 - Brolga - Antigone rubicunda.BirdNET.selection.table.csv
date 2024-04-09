@@ -1,0 +1,8 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Antigone canadensis,Sandhill Crane,0.99442166
+3.0,6.0,Antigone canadensis,Sandhill Crane,0.6607291
+9.0,12.0,Antigone rubicunda,Brolga,0.6431335
+9.0,12.0,Antigone canadensis,Sandhill Crane,0.6231388
+15.0,18.0,Geopelia placida,Peaceful Dove,0.2933862
+18.0,21.0,Antigone canadensis,Sandhill Crane,0.39902616
+18.0,21.0,Streptopelia capicola,Ring-necked Dove,0.18750112

@@ -1,0 +1,25 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Acanthiza chrysorrhoa,Yellow-rumped Thornbill,0.9599066
+0,3.0,Rhipidura albiscapa,Gray Fantail,0.20343953
+0,3.0,Malurus cyaneus,Superb Fairywren,0.20310624
+0,3.0,Serinus serinus,European Serin,0.10360163
+3.0,6.0,Malurus cyaneus,Superb Fairywren,0.1798522
+6.0,9.0,Myiagra ruficollis,Broad-billed Flycatcher,0.15741825
+9.0,12.0,Malurus lamberti,Variegated Fairywren,0.16568296
+12.0,15.0,Serinus serinus,European Serin,0.8824324
+12.0,15.0,Malurus cyaneus,Superb Fairywren,0.19881152
+12.0,15.0,Malurus melanocephalus,Red-backed Fairywren,0.1174993
+15.0,18.0,Serinus serinus,European Serin,0.33575368
+15.0,18.0,Anthochaera chrysoptera,Little Wattlebird,0.22905603
+15.0,18.0,Malurus cyaneus,Superb Fairywren,0.14295489
+18.0,21.0,Malurus cyaneus,Superb Fairywren,0.19885603
+21.0,24.0,Neochmia phaeton,Crimson Finch,0.117526434
+21.0,24.0,Myiagra ruficollis,Broad-billed Flycatcher,0.11659194
+21.0,24.0,Cisticola exilis,Golden-headed Cisticola,0.10199632
+24.0,27.0,Acanthiza chrysorrhoa,Yellow-rumped Thornbill,0.5097584
+24.0,27.0,Malurus cyaneus,Superb Fairywren,0.22710174
+30.0,33.0,Malurus lamberti,Variegated Fairywren,0.44025362
+30.0,33.0,Malurus cyaneus,Superb Fairywren,0.41111007
+30.0,33.0,Malurus melanocephalus,Red-backed Fairywren,0.20526864
+30.0,33.0,Diglossa baritula,Cinnamon-bellied Flowerpiercer,0.18642806
+30.0,33.0,Serinus serinus,European Serin,0.11919095

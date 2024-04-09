@@ -1,0 +1,16 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Regulus regulus,Goldcrest,0.6760453
+0,3.0,Malurus splendens,Splendid Fairywren,0.4626823
+3.0,6.0,Malurus splendens,Splendid Fairywren,0.5205813
+6.0,9.0,Corvus ossifragus,Fish Crow,0.33037335
+9.0,12.0,Aegithalos iouschistos,Black-browed Tit,0.17695883
+12.0,15.0,Malurus splendens,Splendid Fairywren,0.13315569
+15.0,18.0,Malurus splendens,Splendid Fairywren,0.6201524
+24.0,27.0,Leistes superciliaris,White-browed Meadowlark,0.14810888
+27.0,30.0,Malurus splendens,Splendid Fairywren,0.9614171
+30.0,33.0,Malurus splendens,Splendid Fairywren,0.6730028
+45.0,48.0,Malurus splendens,Splendid Fairywren,0.6561475
+45.0,48.0,Tyrannus tyrannus,Eastern Kingbird,0.15765084
+48.0,51.0,Malurus splendens,Splendid Fairywren,0.79767376
+48.0,51.0,Tyrannus tyrannus,Eastern Kingbird,0.2133899
+51.0,54.0,Malurus splendens,Splendid Fairywren,0.1023982

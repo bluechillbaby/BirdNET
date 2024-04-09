@@ -1,0 +1,30 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	0	3.0	0	15000	oricuc2	Oriental Cuckoo	0.6712
+2	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	0	3.0	0	15000	mowowl1	Mottled Wood-Owl	0.1520
+3	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	0	3.0	0	15000	rufmot1	Rufous Motmot	0.1414
+4	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	3.0	6.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.6442
+5	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	3.0	6.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.5482
+6	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	3.0	6.0	0	15000	soghor1	Southern Ground-Hornbill	0.1924
+7	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	6.0	9.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.4217
+8	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	6.0	9.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.2905
+9	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	9.0	12.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.1932
+10	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	9.0	12.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.1013
+11	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	12.0	15.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.4067
+12	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	12.0	15.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.3737
+13	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	24.0	27.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.1047
+14	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	27.0	30.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.7816
+15	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	27.0	30.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.2373
+16	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	27.0	30.0	0	15000	soghor1	Southern Ground-Hornbill	0.2262
+17	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	27.0	30.0	0	15000	grgowl	Great Gray Owl	0.1337
+18	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	30.0	33.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.3044
+19	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	30.0	33.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.2647
+20	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	33.0	36.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.2480
+21	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	33.0	36.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.1117
+22	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	36.0	39.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.2046
+23	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	51.0	54.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.8263
+24	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	51.0	54.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.3374
+25	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	54.0	57.0	0	15000	dbipig1	Dark-backed Imperial-Pigeon	0.9266
+26	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	54.0	57.0	0	15000	soghor1	Southern Ground-Hornbill	0.2103
+27	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	54.0	57.0	0	15000	rerfru1	Red-ruffed Fruitcrow	0.1575
+28	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	54.0	57.0	0	15000	moipig1	Mountain Imperial-Pigeon	0.1525
+29	Spectrogram 1	1	example/low-freq\Podargus strigoides_Tawny Frogmouth\XC860095 - Tawny Frogmouth - Podargus strigoides.mp3	60	54.0	57.0	0	15000	grgowl	Great Gray Owl	0.1195

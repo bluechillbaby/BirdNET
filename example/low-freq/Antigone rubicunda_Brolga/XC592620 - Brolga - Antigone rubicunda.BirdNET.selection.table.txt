@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	0	3.0	0	15000	brolga1	Brolga	0.5475
+2	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	3.0	6.0	0	15000	brolga1	Brolga	0.9685
+3	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	3.0	6.0	0	15000	orwpar	Orange-winged Parrot	0.1340
+4	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	6.0	9.0	0	15000	brolga1	Brolga	0.9389
+5	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	6.0	9.0	0	15000	reccra1	Red-crowned Crane	0.1232
+6	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	9.0	12.0	0	15000	brolga1	Brolga	0.7178
+7	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	9.0	12.0	0	15000	grefla3	Greater Flamingo	0.1411
+8	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	9.0	12.0	0	15000	y00475	American Coot	0.1073
+9	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	12.0	15.0	0	15000	brolga1	Brolga	0.7540
+10	Spectrogram 1	1	example/low-freq\Antigone rubicunda_Brolga\XC592620 - Brolga - Antigone rubicunda.mp3	20	15.0	18.0	0	15000	brolga1	Brolga	0.7527

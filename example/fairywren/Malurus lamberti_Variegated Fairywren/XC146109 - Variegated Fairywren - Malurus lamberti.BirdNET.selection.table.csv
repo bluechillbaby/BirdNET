@@ -1,0 +1,13 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Malurus lamberti,Variegated Fairywren,0.9611202
+0,3.0,Troglodytes pacificus,Pacific Wren,0.44948924
+0,3.0,Dicaeum ignipectus,Fire-breasted Flowerpecker,0.15064816
+0,3.0,Passerella iliaca,Fox Sparrow,0.14856875
+0,3.0,Regulus satrapa,Golden-crowned Kinglet,0.1053767
+3.0,6.0,Malurus lamberti,Variegated Fairywren,0.44452938
+6.0,9.0,Nephelomyias pulcher,Handsome Flycatcher,0.14759192
+9.0,12.0,Malurus lamberti,Variegated Fairywren,0.97054964
+9.0,12.0,Colibri cyanotus,Lesser Violetear,0.12700312
+12.0,15.0,Malurus lamberti,Variegated Fairywren,0.96003497
+12.0,15.0,Troglodytes pacificus,Pacific Wren,0.58552796
+15.0,18.0,Malurus lamberti,Variegated Fairywren,0.19499138

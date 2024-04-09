@@ -1,0 +1,8 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Dacelo novaeguineae,Laughing Kookaburra,0.94560736
+3.0,6.0,Dacelo novaeguineae,Laughing Kookaburra,0.5391428
+6.0,9.0,Dacelo novaeguineae,Laughing Kookaburra,0.9994338
+9.0,12.0,Antrostomus carolinensis,Chuck-will's-widow,0.19488841
+12.0,15.0,Zonotrichia albicollis,White-throated Sparrow,0.11171447
+15.0,18.0,Microcerculus bambla,Wing-banded Wren,0.37337816
+18.0,21.0,Rhipidura albiscapa,Gray Fantail,0.15116264

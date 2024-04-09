@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Path	File Duration (s)	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	0	3.0	0	15000	varfai5	Variegated Fairywren	0.9898
+2	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	0	3.0	0	15000	varfai1	Purple-backed Fairywren	0.6363
+3	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	3.0	6.0	0	15000	whttre3	White-throated Treecreeper	0.1063
+4	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	6.0	9.0	0	15000	varfai5	Variegated Fairywren	0.9418
+5	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	6.0	9.0	0	15000	supfai1	Superb Fairywren	0.2319
+6	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	6.0	9.0	0	15000	rebfai1	Red-backed Fairywren	0.1427
+7	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	6.0	9.0	0	15000	varfai1	Purple-backed Fairywren	0.1424
+8	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	9.0	12.0	0	15000	varfai5	Variegated Fairywren	0.7030
+9	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	12.0	15.0	0	15000	stther1	Streak-throated Hermit	0.1956
+10	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	15.0	18.0	0	15000	varfai5	Variegated Fairywren	0.2525
+11	Spectrogram 1	1	example/fairywren\Malurus lamberti_Variegated Fairywren\XC676313 - Variegated Fairywren - Malurus lamberti.mp3	19	15.0	18.0	0	15000	whtswi1	White-tipped Swift	0.1213

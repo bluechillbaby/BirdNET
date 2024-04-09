@@ -1,0 +1,18 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Malurus assimilis,Purple-backed Fairywren,0.9114036
+0,3.0,Oreoica gutturalis,Crested Bellbird,0.12465442
+3.0,6.0,Malurus assimilis,Purple-backed Fairywren,0.7473184
+3.0,6.0,Malurus leucopterus,White-winged Fairywren,0.3009438
+3.0,6.0,Oreoica gutturalis,Crested Bellbird,0.17327476
+6.0,9.0,Malurus assimilis,Purple-backed Fairywren,0.94347227
+9.0,12.0,Malurus assimilis,Purple-backed Fairywren,0.97185284
+9.0,12.0,Malurus leucopterus,White-winged Fairywren,0.2933491
+15.0,18.0,Malurus assimilis,Purple-backed Fairywren,0.96240014
+18.0,21.0,Malurus assimilis,Purple-backed Fairywren,0.93926084
+21.0,24.0,Malurus assimilis,Purple-backed Fairywren,0.98432565
+24.0,27.0,Malurus assimilis,Purple-backed Fairywren,0.8741972
+24.0,27.0,Malurus leucopterus,White-winged Fairywren,0.28824666
+27.0,30.0,Malurus assimilis,Purple-backed Fairywren,0.97210836
+27.0,30.0,Malurus leucopterus,White-winged Fairywren,0.14548379
+30.0,33.0,Malurus assimilis,Purple-backed Fairywren,0.97800076
+30.0,33.0,Malurus splendens,Splendid Fairywren,0.11770517

@@ -1,0 +1,8 @@
+Begin Time (s),End Time (s),Scientific Name,Common Name,Confidence
+0,3.0,Dacelo novaeguineae,Laughing Kookaburra,0.9383753
+3.0,6.0,Dacelo novaeguineae,Laughing Kookaburra,0.9986273
+6.0,9.0,Dacelo novaeguineae,Laughing Kookaburra,0.99467963
+12.0,15.0,Haliaeetus albicilla,White-tailed Eagle,0.43307522
+12.0,15.0,Dryocopus martius,Black Woodpecker,0.18367533
+12.0,15.0,Dryocopus pileatus,Pileated Woodpecker,0.13117552
+12.0,15.0,Meleagris gallopavo,Wild Turkey,0.104450576
