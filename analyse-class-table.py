@@ -4,8 +4,8 @@ import numpy as np
 
 
 # Read data from CSV file
-filePath = './example/will-result-txt/'
-df = pd.read_csv(filePath + 'test1.csv')
+filePath = './example/test02/'
+df = pd.read_csv(filePath + 'result.csv')
 
 # Generate unique colors for each species
 unique_species = df['Common Name'].unique()
