@@ -2,6 +2,8 @@ import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
 
 # Define frequency ranges
 high_freq_species = {
@@ -80,7 +82,8 @@ def process_folder_data(folder_path):
         species_data = {'Scientific Name': species_folder.split('_')[0],
                         'Common Name': species_folder.split('_')[1],
                         'Confidence Scores': [],
-                        'Other Species Counts': []}
+                        'Other Species Counts': {},  # Use a set to store unique other species names
+                        }
         
         for file in os.listdir(species_path):
             if file.endswith('.csv'):
@@ -97,20 +100,18 @@ def process_folder_data(folder_path):
                     species_data['Confidence Scores'].append(max_confidence)
                 
                 # Count other species with confidence scores > 0.5
-                other_species_count = len(confidence_scores) - 1  # Subtract 1 for the current species
-                species_data['Other Species Counts'].append(other_species_count)
+                other_species = confidence_scores[confidence_scores['Common Name'] != species_data['Common Name']]['Common Name']
+                for other_species_name in other_species:
+                    species_data['Other Species Counts'][other_species_name] = species_data['Other Species Counts'].get(other_species_name, 0) + 1
         
         # Calculate average confidence score
         avg_confidence = np.mean(species_data['Confidence Scores'])
         species_data['Average Confidence'] = avg_confidence
-        
-        # Calculate average count of other species with confidence scores > 0.5
-        avg_other_species_count = np.mean(species_data['Other Species Counts'])
-        species_data['Average Other Species Count'] = avg_other_species_count
-        
+
         folder_data[species_folder] = species_data
     
     return folder_data
+
 
 # Process data for fairywrens and low frequency species
 fairywren_data = process_folder_data("./example/fairywren")
@@ -152,43 +153,99 @@ plt.tight_layout()
 
 
 
-### Plotting Error
+# ### Plotting Error
 
-# Plot average counts of other species for fairywrens
-plt.figure(figsize=(10, 6))
-x_values = range(len(fairywren_data))  # Numeric values for x-axis
-species_names = list(fairywren_data.keys())
+# # Plot average counts of other species for fairywrens
+# plt.figure(figsize=(10, 6))
+# x_values = range(len(fairywren_data))  # Numeric values for x-axis
+# species_names = list(fairywren_data.keys())
 
-for i, (species, data) in enumerate(fairywren_data.items()):
-    plt.bar(i, data.get('Average Other Species Count', 0), label=data['Common Name'], color=species_colors[data['Common Name']])
-    # Annotate each data point with the average count of other species
-    plt.text(i, data.get('Average Other Species Count', 0), f"({data.get('Average Other Species Count', 0):.2f})", ha='right', va='center', color='black',
-                bbox=dict(facecolor='white', edgecolor='none', pad=2))
-plt.xticks(x_values, [data['Common Name'] for data in fairywren_data.values()])
-plt.xlabel('Species', weight='bold')
-plt.ylabel('Average Other Species Count', weight='bold')
-plt.title('Average Counts of Other Species for Fairywrens', weight='bold')
-plt.tight_layout()
+# for i, (species, data) in enumerate(fairywren_data.items()):
+#     plt.bar(i, data.get('Average Other Species Count', 0), label=data['Common Name'], color=species_colors[data['Common Name']])
+#     # Annotate each data point with the average count of other species
+#     plt.text(i, data.get('Average Other Species Count', 0), f"({data.get('Average Other Species Count', 0):.2f})", ha='right', va='center', color='black',
+#                 bbox=dict(facecolor='white', edgecolor='none', pad=2))
+# plt.xticks(x_values, [data['Common Name'] for data in fairywren_data.values()])
+# plt.xlabel('Species', weight='bold')
+# plt.ylabel('Average Other Species Count', weight='bold')
+# plt.title('Average Counts of Other Species for Fairywrens', weight='bold')
+# plt.tight_layout()
 
-# Low frequency species
-plt.figure(figsize=(10, 6))
-x_values = range(len(low_freq_data))  # Numeric values for x-axis
-species_names = list(low_freq_data.keys())
+# # Low frequency species
+# plt.figure(figsize=(10, 6))
+# x_values = range(len(low_freq_data))  # Numeric values for x-axis
+# species_names = list(low_freq_data.keys())
 
-for i, (species, data) in enumerate(low_freq_data.items()):
-    plt.bar(i, data.get('Average Other Species Count', 0), label=data['Common Name'], color=species_colors[data['Common Name']])
-    # Annotate each data point with the average count of other species
-    plt.text(i, data.get('Average Other Species Count', 0), f"({data.get('Average Other Species Count', 0):.2f})", ha='right', va='center', color='black',
-                bbox=dict(facecolor='white', edgecolor='none', pad=2))
-plt.xticks(x_values, [data['Common Name'] for data in low_freq_data.values()])
-plt.xlabel('Species', weight='bold')
-plt.ylabel('Average Other Species Count', weight='bold')
-plt.title('Average Counts of Other Species for Low Frequency Species', weight='bold')
-plt.tight_layout()
+# for i, (species, data) in enumerate(low_freq_data.items()):
+#     plt.bar(i, data.get('Average Other Species Count', 0), label=data['Common Name'], color=species_colors[data['Common Name']])
+#     # Annotate each data point with the average count of other species
+#     plt.text(i, data.get('Average Other Species Count', 0), f"({data.get('Average Other Species Count', 0):.2f})", ha='right', va='center', color='black',
+#                 bbox=dict(facecolor='white', edgecolor='none', pad=2))
+# plt.xticks(x_values, [data['Common Name'] for data in low_freq_data.values()])
+# plt.xlabel('Species', weight='bold')
+# plt.ylabel('Average Other Species Count', weight='bold')
+# plt.title('Average Counts of Other Species for Low Frequency Species', weight='bold')
+# plt.tight_layout()
 
 
 ### Plot Confusion Matrix
+# Function to generate confusion matrix
+def generate_confusion_matrix(data, species_names, zoom_out=False):
+    y_true = []
+    y_pred = []
 
+    # Extract common names from species data
+    data_species_names = [data[key]['Common Name'] for key in data]
 
+    # Check if there are any missing labels or misformatted labels
+    missing_labels = set(species_names) - set(data_species_names)
+    if missing_labels:
+        raise ValueError(f"The following labels are missing or misformatted in the data: {missing_labels}")
+
+    # Iterate over species data
+    for key, species_data in data.items():
+        common_name = species_data['Common Name']
+        avg_confidence = species_data['Average Confidence']
+
+        # Add ground truth
+        if isinstance(avg_confidence, np.ndarray):
+            y_true.extend([common_name] * len(avg_confidence))
+        else:
+            y_true.append(common_name)
+
+        # Add predicted classes based on average confidence
+        if isinstance(avg_confidence, np.ndarray):
+            y_pred.extend([common_name if conf > 0.1 else 'Other' for conf in avg_confidence])
+        else:
+            y_pred.append(common_name if avg_confidence > 0.1 else 'Other')
+
+        # Add predicted classes based on other species counts
+        for other_species_name, count in species_data['Other Species Counts'].items():
+            if count > 0:
+                y_pred.extend([other_species_name] * count)
+                y_true.extend([common_name] * count)  # Assume the ground truth is the species itself
+
+    # Generate confusion matrix
+    confusion_mat = confusion_matrix(y_true, y_pred, labels=species_names)
+
+    # Plot confusion matrix
+    plt.figure(figsize=(12, 10))
+    sns.heatmap(confusion_mat, annot=True, fmt='d', cmap='Blues', xticklabels=species_names, yticklabels=species_names)
+    plt.xlabel('Predicted Label', weight='bold')
+    plt.ylabel('True Label', weight='bold')
+    plt.title('Confusion Matrix', weight='bold')
+
+    # Rotate x-axis labels for better readability
+    plt.xticks(rotation=45, ha='right')
+
+    # Zoom out if requested
+    if zoom_out:
+        plt.xlim(-0.5, len(species_names) - 0.5)
+        plt.ylim(len(species_names) - 0.5, -0.5)
+
+    plt.tight_layout()  # Adjust layout to prevent clipping of labels
+
+generate_confusion_matrix(fairywren_data, [data['Common Name'] for data in fairywren_data.values()])
+generate_confusion_matrix(low_freq_data, [data['Common Name'] for data in low_freq_data.values()])
 
 plt.show()
