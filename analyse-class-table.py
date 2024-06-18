@@ -20,7 +20,6 @@ plt.figure(figsize=(10, 6))
 for species, group in df.groupby('Common Name'):
     y_value = species_y_values[species]
     plt.scatter(group['Begin Time (s)'], [y_value]*len(group), s=group['Confidence']*300, label=species, color=colors[y_value], edgecolor='black', linewidth=1, alpha=0.7)
-
 plt.xlabel('Time (s)', weight='bold')
 plt.ylabel('Species', weight='bold')
 plt.yticks(range(len(species_y_values)), species_y_values.keys())
@@ -29,6 +28,6 @@ plt.legend()
 
 
 # Save the plot to a file
-plt.savefig(filePath + 'test1.jpeg')
+plt.savefig(filePath + 'test1.svg')
 
 plt.show()
